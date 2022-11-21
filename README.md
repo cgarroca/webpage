@@ -8,4 +8,4 @@
 
 This should not be bold
 
-<img src="https://www.allaboutgardening.com/wp-content/uploads/2022/01/Types-of-Flowers-in-Garden-1200x667.jpg" alt="alternatetext">
+<img src="https://www.allaboutgardening.com/wp-content/uploads/2022/01/Types-of-Flowers-in-Garden-1200x667.jpg" alt="flowers">
